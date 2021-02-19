@@ -1,1 +1,2 @@
-  Hi, this is a file on github
+ Hi, this is a file on github
+ testing SCM
